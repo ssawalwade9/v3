@@ -7,5 +7,10 @@
 }
 body{
     background: rgb(209, 223, 241);
-    background-color: 
+    background-color:bisque;
+    text-transform: capitalize;
+}
+.link{
+    text-decoration:underline;
+
 }
