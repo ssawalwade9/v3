@@ -2,8 +2,10 @@
     color: rgb(63, 8, 107);
 }
 .subtitle{
-    color: rgb(221, 36, 69);
+    color: #f50257;
+    text-shadow: 2px 2px 1px rgb(248, 243, 243);
 }
 body{
-    background: rgb(125, 160, 240);
+    background: rgb(209, 223, 241);
+    background-color: 
 }
