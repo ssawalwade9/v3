@@ -96,7 +96,7 @@ input, textarea {
  	font-size: 20px;
  	color: white;
  	background: rgb(89, 150, 255);
-     transform: translate(40px, 10px);
+     transform:rotate(-90deg);
  	-webkit-transition: all 500ms ease;
  	-moz-transition: all 500ms ease;
  	-o-transition: all 500ms ease;
